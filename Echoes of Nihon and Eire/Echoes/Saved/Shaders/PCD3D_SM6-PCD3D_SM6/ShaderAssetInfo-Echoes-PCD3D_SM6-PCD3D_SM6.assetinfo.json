@@ -2,6 +2,12 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "3FFD550092008470E1CCA2D14275EC7909CA51BE",
+			"Assets": [
+				"/Game/blenderAssets/plantLeaf_M"
+			]
+		},
+		{
 			"ShaderMapHash": "EEFEDB053ED9E51B10C6F72FE1164AE6DF4CA611",
 			"Assets": [
 				"/Game/Levels/portalStart_Level"
@@ -68,8 +74,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "466E1929165953BBE17194EB2FF2C7C467B47C2E",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+			]
+		},
+		{
 			"ShaderMapHash": "D1D6B629EA864518B4E381CF33568A7822EC03CA",
 			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
 				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
 			]
 		},
@@ -101,6 +114,12 @@
 			"ShaderMapHash": "D47A56378ED7D675783FC4389E2E635E12ECCB83",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C966B438CB69143D728A71E6B77D39A602783D10",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
 			]
 		},
 		{
@@ -152,6 +171,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "12454A4BF910B8BBE5BF8C464E40A32B73B08EFD",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody"
+			]
+		},
+		{
 			"ShaderMapHash": "444767544BE2E0BEF4AA44AF93D668C767653559",
 			"Assets": [
 				"/Interchange/gltf/M_Transmission"
@@ -188,6 +213,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F9F96A62E14957364F76AA7207DDD44881DA008C",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
 			"ShaderMapHash": "1BC888670B701846047D9C3B1AE18267C5C5FE87",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
@@ -196,6 +227,7 @@
 		{
 			"ShaderMapHash": "B6529F67B2BB4629A411041D8EA7B2CC7E083509",
 			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Characters/Mannequins/Materials/M_Mannequin"
 			]
 		},
@@ -206,9 +238,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4959EA6B09AB4638C8B704C0236377B56DBB1EA0",
+			"Assets": [
+				"/Game/blenderAssets/paintingGrass"
+			]
+		},
+		{
+			"ShaderMapHash": "B34A796C5ECAD5F07FE4511E3F61D1798240D825",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
 			"ShaderMapHash": "953B4C6D55881DFE1F7200D93CB891527069E181",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8161AF7235E9D803F918BFAEBD0BDBE6EF1400C0",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
 			]
 		},
 		{
@@ -260,15 +310,28 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AF59E48737964BDAE14681CC45BA6AF692032BFF",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
 			"ShaderMapHash": "3F24318B76C42C5E352ECFF81CBE51207B070E20",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
 			"ShaderMapHash": "F9322D8F332FF3CEB03AE9D9C01E825557148EF4",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0847D49022DFF61B24D40C4EDE0F25BDB27A759C",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
 			]
 		},
 		{
@@ -314,6 +377,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D5B4CB984D4A9D625CFE454FB2C2EA9836AFE08C",
+			"Assets": [
+				"/Game/blenderAssets/plantStalk_M"
+			]
+		},
+		{
 			"ShaderMapHash": "222D689F4330BCDB131336281FF55410D3C5059E",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
@@ -344,6 +413,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "61D80EAEDD9F7D001341EBF52621646441028490",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
 			"ShaderMapHash": "82C736AE25119D86A2651C8649DDA54153BA6874",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
@@ -366,6 +441,12 @@
 			"ShaderMapHash": "2608BDB775BDCACCDE98659BD20E0114731F9C2C",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "74045AB8FEB709E755A23E64659F399CDC4381B9",
+			"Assets": [
+				"/Game/blenderAssets/grassBlade_M"
 			]
 		},
 		{
