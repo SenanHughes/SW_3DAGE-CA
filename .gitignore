@@ -46,8 +46,8 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
+Echoes of Nihon and Eire/Echoes/Binaries/*
+Echoes of Nihon and Eire/Echoes/Plugins/*/Binaries/*
 
 # Builds
 Echoes of Nihon and Eire/Echoes/Build/*
